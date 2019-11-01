@@ -1,0 +1,1 @@
+cd D:/Documents/pronostico_climatico/spi/ && (echo 6 && echo 1 && echo 3 && echo 6 && echo 9 && echo 12 && echo 24 && echo esta_Esquipulas.cor && echo esta_Esquipulas.dat) | spi_sl_6
